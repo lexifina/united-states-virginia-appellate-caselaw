@@ -1,0 +1,41 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "0042-85"
+decided: "1986-03-04"
+citations: ["2 Va. App. 1"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHAEL KEITH DAVID v. COMMONWEALTH OF VIRGINIA"]
+source_url: "https://static.case.law/va-app/2/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2286328
+cites_cases: ["177 S.E.2d 618", "201 S.E.2d 597", "211 Va. 448", "214 Va. 436", "219 Va. 834", "228 Va. 273", "252 S.E.2d 313", "322 S.E.2d 216", "340 A.2d 207"]
+---
+
+# David v. Commonwealth
+
+## Majority (BAKER, J.)
+
+Opinion
+BAKER, J.
+Michael Keith David (appellant) appeals from his bench trial conviction in the Circuit Court of the City of Portsmouth for the unlawful wounding of Ricky Speller (victim).
+The indictment which led to appellant’s conviction contained two counts. The first charged that appellant “did maliciously cause bodily injury to Ricky Speller with intent to maim, disfigure, disable and kill.” The second charged that appellant “did use and attempt to use and display a firearm in a threatening manner while committing malicious wounding.”
+The appellee (Commonwealth) presented only the testimony of the victim in support of the indictment. Viewed most favorably to the Commonwealth that evidence may be summarized as follows:
+Shortly before midnight on April 23, 1984, the victim and three others were standing under a street light on Project Drive in the City of Portsmouth. The appellant, carrying a loaded pistol in his front belt, approached the four people and said: “What y’all faggots doing out here?” One of the four replied: “You must be the faggot,” whereupon the appellant, without any further words or threat, pulled the pistol from the front of his belt and, while standing only two feet from the victim, fired the gun onto the cement in front of the place where the four persons stood. The bullet ricocheted from the cement into the victim’s foot. The gun had been pointed down, not directly toward any of the four. After the victim became aware that blood was coming out of his sneaker he was taken to a hospital where he was admitted for treatment. Although more than six months had passed since the injury, at the time of the trial the bullet was still lodged in the victim’s left foot.
+At the conclusion of the Commonwealth’s case, appellant moved to strike. The trial court held that the Commonwealth could not proceed on the charge of malicious wounding, but could go forward on a lesser included offense of unlawful wounding.
+The trial court then offered appellant an opportunity to present his case but he declined to offer any evidence on his behalf. He then renewed his “motion to strike the Commonwealth’s evidence.” The court overruled this motion and found appellant guilty of “unlawful wounding” and not guilty of “use of a firearm.”
+In this appeal it is averred that the evidence fails to show beyond a reasonable doubt that the appellant had a specific intent to maim, disfigure, disable or kill Ricky Speller at the time his firearm was discharged.
+Where the sufficiency of the evidence is challenged after conviction, it is our duty to view the evidence in the light most favorable to the Commonwealth, granting all reasonable inferences fairly deducible therefrom. The judgment should be affirmed unless it appears from the evidence that such judgment is plainly wrong or without evidence to support it. Patler v. Commonwealth, 211 Va. 448, 457, 177 S.E.2d 618, 624 (1970). What inferences are to be drawn from proved facts are within the province of the trier of the facts so long as the inferences are reasonable and justified. See id. at 457, 177 S.E.2d at 624.
+We must decide whether one may be convicted of unlawful wounding with intent to maim, disfigure, disable or kill another, when there is no direct evidence of a subjective intent to inflict bodily harm to the injured person. Under the facts of this case, we answer in the affirmative.
+“Intent is the purpose formed in a person’s mind which may, and often must, be inferred from the facts and circumstances in a particular case. The state of mind of an alleged offender may be shown by his acts and conduct.” Ridley v. Commonwealth, 219 Va. 834, 836, 252 S.E.2d 313, 314 (1979). The Supreme Court of Virginia has declared that “one who deliberately drives a car into a crowd of people at a high speed, not intending to kill or injure any particular person, but rather seeking the perverse thrill of terrifying them and causing them to scatter, might be convicted of second-degree murder if death results.” Essex v. Commonwealth, 228 Va. 273, 281, 322 S.E.2d 216, 220 (1984). There is little distinction between willfully or purposefully driving an automobile into a crowd for thrills, and willfully or purposefully firing a bullet in furtherance of one’s acts of intimidation onto a cement drive two feet from where four persons are standing. In both cases, it may be inferred from the acts willfully and purposefully done that the actor intended to cause death or great bodily harm.
+A defense similar to that asserted here was raised in State v. Anania, 340 A.2d 207 (Me. 1975), where the defendant had been found guilty of aggravated assault “with intent to so some violence.” There the defendant claimed insufficiency of the evidence to prove the “intent” because he was “not aiming” at the victim whom he shot. The Maine Supreme Judicial Court stated that it agreed with the defendant “that there was no direct evidence which would support a finding that the appellant had a specific intent to fire the weapon directly at [the victim] for the purpose of doing ‘some violence’ to him.” Id. at 210. However the Court held:
+We reject the appellant’s argument that the State had failed to prove that degree of criminal intent which is statutorily requisite for conviction of the crime of assault. An “intention ... to do some violence” may be established, given appropriate facts, by evidence of a specific, subjective purpose “to do some violence.” However, it is equally clear that proof of the requisite “intent” is not necessarily confined to such evidence .... Criminal “intent” may equally well flow, as a matter of law, from intentionally doing an act which has the inherent potential of doing bodily harm, and doing so in a criminally negligent manner, (emphasis in original).
+* * *
+Reverting to the facts, there can be no doubt that Mr. Anania intentionally procured the gun, intentionally carried it with him to confront the victim, and intentionally fired it at close range, seriously wounding [the victim] . . . . [T]he inference is inescapable that the act of shooting was reckless and wanton, particularly in view of the fact that the entrance wound was in the lower part of the victim’s abdomen. The totality of these facts and reasonable inferences drawn therefrom would legally justify the fact finder in concluding that the degree of criminal intent existed which the statute requires as a necessary element of the offense ....
+Id. at 211 (emphasis added).
+Intent in fact is a state of mind and may be shown by circumstances such as a person’s conduct or by his statements. Hargrave v. Commonwealth, 214 Va. 436, 437, 201 S.E.2d 597, 598 (1974).
+Here, the appellant intentionally armed himself with a loaded pistol placed in his front belt; intentionally approached the victim and his three other companions on a public drive a few minutes before midnight; immediately and intentionally spoke insulting words to them; and without any legal justification, intentionally drew the pistol from his belt and while only two feet from the victim fired a bullet onto the cement drive where it reasonably could have been anticipated that the bullet would be deflected. In fact it was deflected into the victim’s foot causing serious injury to one to whom he had directed his insulting remark. Under these facts and circumstances, it is reasonable and justified for the trier of the facts to infer the intent essential to sustain a conviction for unlawful wounding with intent to maim, disfigure, disable or kill.
+Accordingly, the judgment of the trial court is
+Affirmed.
+Barrow, J., and Hodges, J., concurred.
