@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Virginia"
+decided: "1855-01"
+citations: ["1 Va. (Patt. & Heath) 301"]
+reporter: "va-patt-heath"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["*Breathed et al. v. Smith et al."]
+source_url: "https://static.case.law/va-patt-heath/1/cases/0557-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 6728374
+cites_cases: ["2 Rob. 259", "2 Rob. Rep. 259", "3 Rand. 563", "5 Rand. 563", "7 Wheat 27", "8 Cranch, 229"]
+---
+
+# Breathed v. Smith
+
+## Majority (GIEMEE, J.,)
+
+GIEMEE, J.,
+delivered the opinion of the court.
+This was a writ of right brought in the Circuit Court of Morgan county. The mise was joined on ■ the mere right, a jury em-pannelled, and a verdict and judgment rendered for the tenants.
+During the progress of the trial, both the demandants and tenants having introduced evidence tending to prove that they had respectively made an actual entry upon the land in controversy, the tenants, for the purpose of defeating the demandants’ right to recover, by, showing a better outstanding title in a third person, introduced as evidence two patents from the Commonwealth to John Thornton, dated in 1796, without attempting to connect their title with them. The demandants moved the court to exclude said patents, -¡but the court over-ruled the motion and allowed them to be read as evidence to the jury, with the instruction set. forth in the first bill of exceptions.
+The first question to be decided is, whether or not the Circuit Court erred, in admitting the patents with the instruction given. It is well settled, that in a writ of right, where the demandant shows no actual possession *(or seisin by pedis positio as it is termed), but relies wholly on a constructive seisin by virtue of a patent of the land as vacant land, it is competent for the tenant to disprove that constructive seisin, by shewing that the State had previously granted the same land to other persons with whom the tenant claims no privitjn Green v. Watkins, 7 Wheaton; Dawson v. Watkins, 2 Rob. Rep. 259. This principle is founded on the obvious reason that the Commonwealth, having by patent divested herself both of possession and title, a subsequent patent can convey neither.
+Applying this principle to the first instruction, given by the Circuit Court, I see no objection to the first part of it; but I think the latter part too broad in this, that by it in the case supposed of an actual possession by the tenants, from which they had not been ousted by the demandants, the said patents are not only made evidence, but conclusive evidence against the de-mandants, instead of being admitted as evidence to be weighed by the jury.
+The demandants offered as evidence before the jury the record, verdict and judgment in a proceeding of unlawful entry and detainer between the same parties for the land in controversy in this suit, as tending to prove an admission by the tenants, that the demandants were at the time when or at some time within three years before the said proceeding was commenced in possession of said land, but the court refused to permit it to be read, to which opinion the demandants excepted. As has been already stated the possession of the land was a question between the parties; therefore any testimony on that subject would be relevant to the issue. It cannot be denied that any admission made by either party on the subject would be evidence against him; and, if this be true, it follows as a necessary consequence, that a solemn admission entered of record must be evidence against the party making it. I think, therefore, that the Circuit Court erred in excluding the record from the jury for the purpose for which it was offered. Bolling *v. Mayor of Petersburg, 3 Rand. 563 ; 1 Green. Ev. p. 675, § 527 (a)-528. And for these reasons I am for reversing the judgment.
+The decree of the court was as follows:
+This day came the plaintiffs, by their counsel, and the defendants, although solemnly called, came not: whereupon, the court having, &c. is of opinion that the record of the case of unlawful entry and detainer mentioned in the second bill of exceptions, ought to have been received as evidence in the cause; and that so much of the opinion of the court upon the motion to exclude from the jury the patents of John Thornton, referred to in the first bill of exceptions, as declared, that “if the jury believed that the tenants were seized of the premises, and were not thereof (or from) ousted and dispossessed by the demand-ants, and that the Thornton patents embraced the land in controversy, in law the demandants could not recover,” was erroneous. The court might, with propriety, have said to the jury that if they believed those facts to be proved, then the patents were proper evidence in the cause. But to say, that “in law the demandants could not recover,” was going too far. Therefore it is considered, that the said judgment be reversed and annulled, that the plaintiffs recover against the defendants their costs by them expended in prosecuting their writ of supersedeas aforesaid here: and it is ordered, that the jury’s verdict be set aside and the cause remanded to the Circuit Court of Morgan county for a new trial to be had therein, with instructions to permit the record of the case of unlawful entry and detainer to go in evidence to the jury, if offered by the demandants for the same purpose, and if the same patents of Thornton should be again given in evidence so much of the instruction heretofore given, as is above declared to be erroneous, is not to be repeated.
+Which is ordered, &c.
