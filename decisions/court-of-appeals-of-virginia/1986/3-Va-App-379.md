@@ -1,0 +1,39 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "0873-85"
+decided: "1986-11-05"
+citations: ["3 Va. App. 379"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ERIC C. SMITH t/a ERIC SMITH CONSTRUCTION v. DUANE R. WEBER"]
+source_url: "https://static.case.law/va-app/3/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2284806
+cites_cases: ["186 Va. 116", "230 N.C. 428", "236 N.C. 435", "328 Mo. 1200", "41 S.E.2d 469", "53 S.E.2d 668", "73 S.E.2d 488"]
+---
+
+# Smith v. Weber
+
+## Majority (BARROW, J.)
+
+Opinion
+BARROW, J.
+This appeal from the Industrial Commission questions whether a contractor is responsible for workers’ compensation benefits for a subcontractor’s employee if the contractor has no employees but two of his subcontractors have a total of three employees between them. We agree with the Industrial Commission that the total number of persons employed by the subcontractors should be counted when calculating whether the contractor employs the minimum number of workers required for workers’ compensation coverage. For this reason, we affirm the Commission’s decision.
+Eric C. Smith, an individual trading as Eric Smith Construction, contracted with the owner of a home in Virginia Beach to construct an addition to the home. Smith had no employees of his own but performed his work through subcontractors. He did not carry workers’ compensation insurance.
+For this job he subcontracted with Don McLawhorn to frame the addition; McLawhorn in turn subcontracted with Robert E. Gibson, Jr. to install the exterior siding. Both of these subcontractors also operated as sole proprietors and carried no workers’ compensation insurance. The claimant, Duane R. Weber, an employee of Gibson’s, was injured on this job when he fell from scaffolding during the course of his work.
+None of the three contractors employed as many as three people, Smith had no employees; McLawhorn had only one regular employee; and Gibson had two regular employees.
+Smith contended that he was not liable to the claimant under the Workers’ Compensation Act because of the provision which exempts employers who have “less than three employees in the same business within this State.” Code § 65.1-28. The Commission rejected this contention, finding that Smith was subject to the Act and liable for compensation to the claimant. To reach this conclusion the Commission determined Gibson’s two employees and McLawhorn’s one employee were employees of Smith for the purpose of determining Smith’s exemption claim.
+To conclude that the employees of Smith’s subcontractors should be considered employees of Smith under the Workers’ Compensation Act, the Commission had only to look at another of the Act’s provisions. Code § 65.1-30 imposes liability on a contractor to pay workers’ compensation to a subcontractor’s employee “which he would have been liable to pay if the workman had been immediately employed by him.” Thus the subcontractor’s employees are employees of the contractor for purposes of liability. Since they are the contractor’s employees for purposes of determining liability, reason dictates that they should also be considered employees for determining applicability of the Act.
+This construction of the Act is essential to prevent evasion of compensation liability. If the subcontractor’s employees were not considered in determining the contractor’s exemption under the Act, the work could simply be subdivided among different contracting entities to evade liability under the Act. Employees working on a project would not be protected even if their total number exceeded three. Accord Withers v. Black, 230 N.C. 428, 434, 53 S.E.2d 668, 673 (1949); Pruitt v. Harker, 328 Mo. 1200, 43 S.W.2d 769, 771 (1931); 1C A. Larson, Workmen’s Compensa tion Law § 52.32 (1986).
+This case demonstrates how this result could be accomplished. Three separate employers with a collective total of three employees were engaged to complete the project. None of the employers regularly had three or more employees in service. If we accepted Smith’s construction of the Act, none of these employees would be protected by the Workers’ Compensation Act even though the project required three employees, the minimal amount required for coverage.
+The Commission’s interpretation of the Act also promotes another purpose of the statute, namely, the protection of “employees of irresponsible and uninsured subcontractors.” See Greene v. Spivey, 236 N.C. 435, 443, 73 S.E.2d 488, 494 (1952). The principal contractors and subcontractors should be held financially responsible for all employees because they are able to assure compliance with the workers’ compensation statute. Id.
+Smith points to another provision in the Act which provides that “[njothing in this Act contained shall be construed to make, for the purposes of this Act, the employees of an independent contractor the employees of the person . . . contracting with such independent contractor.” Code § 65.1-5. However, it has long been understood that Code § 65.1-5 must be read and reconciled with the provisions of Code § 65.1-30. Sykes v. Stone & Webster Engineering Corp., 186 Va. 116, 121, 41 S.E.2d 469, 471 (1947) (construing predecessors to current code sections).
+Code § 65.1-30, as well as the parallel provisions contained in Code §§ 65.1-29 and 65.1-31, are designed to assure employees of protection under the Act. Together these provisions impose liability on an owner, contractor or subcontractor who subcontracts work which is a part of his trade to another person or a subcontractor who in turn subcontracts with another person. All are liable to pay compensation to any worker employed in the work that each undertakes.
+In contrast, Code § 65.1-5 assures that an employer whose business is not part of the work being performed by another’s employee is not liable to that employee for compensation; however, the employee retains a right of action at common law against such employer. Sykes, 186 Va. at 122-23, 41 S.E.2d at 472. When these provisions are reconciled Code § 65.1-5 does not contradict the interpretation the Commission has placed on Code § 65.1-30 but, instead, supports it.
+For these reasons we conclude that the Commission correctly determined that the employees of Smith’s subcontractors should be considered in determining whether Smith employed three or more employees and was subject to the Workers’ Compensation Act. Therefore, we affirm the Commission’s order.
+Affirmed.
+Benton, J., and Cole, J., concurred.
+On the date of the accident Code § 65.1-28 read in part: “This Act shall not apply to . . . any person, firm or private corporation . . . that has regularly in service less than three employees in the same business within this State; unless such employees and their employers voluntarily elect to be bound by this Act . . . ."
+Code § 65.1-30 provides in part: “When any person . . . referred to as “contractor” . . . contracts to perform or execute any work for another person which work or undertaking is not a part of the trade, business or occupation of such other person and contracts with any other person . . . referred to as “subcontractor” ... for the execution or performance by or under the subcontractor of the whole or any part of the work undertaken by such contractor, then the contractor shall be liable to pay to any workman employed in the work any compensation under this Act which he would have been liable to pay if that workman had been immediately employed by him.”
+Other issues raised by Smith on this appeal have no precedential or public value and, therefore, are considered and disposed of in an unpublished memorandum opinion filed with the clerk of this court from whom it is available upon request.
