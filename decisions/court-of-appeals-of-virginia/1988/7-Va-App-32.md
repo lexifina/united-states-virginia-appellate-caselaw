@@ -1,0 +1,28 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "0109-87-4"
+decided: "1988-09-06"
+citations: ["7 Va. App. 32"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES B. BUCKLEY, et al. v. CITY OF FALLS CHURCH"]
+source_url: "https://static.case.law/va-app/7/cases/0032-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4392889
+cites_cases: ["126 Wis. 2d 447", "13 Mass. App. 373", "161 Ill. App. 3d 213", "297 Md. 660", "377 N.W.2d 176", "389 Mass. 581", "406 A.2d 1291", "416 N.E.2d 1209", "416 N.E.2d 36", "433 N.E.2d 457", "444 U.S. 394", "447 A.2d 776", "452 N.E.2d 188", "459 U.S. 147", "461 U.S. 907", "467 A.2d 483", "476 F. Supp. 34", "494 A.2d 102", "509 P.2d 1095", "514 N.E.2d 211", "54 Hawaii 450", "597 P.2d 977", "616 F. 2d 101", "631 P.2d 1073", "637 S.W.2d 174", "687 F.2d 1270", "92 Ill. App. 3d 288", "93 Ill. App. 3d 101", "99 Wis. 2d. 572"]
+---
+
+# Buckley v. City of Falls Church
+
+## Majority (BARROW, J.)
+
+Opinion
+BARROW, J.
+In this criminal appeal we decide that necessity is not a defense to a charge of trespassing on the premises of a women’s medical clinic in order to give anti-abortion literature to patients considering an abortion. The defense of necessity is not available to these defendants since there were reasonable and legal alternatives to their violation of the law.
+The defense of necessity traditionally addresses the dilemma created when physical forces beyond the actor’s control renders “illegal conduct the lesser of two evils.” United States v. Bailey, 444 U.S. 394, 410 (1980). If one who is starving eats another’s food to save his own life, the defense of necessity may bar a conviction for the larceny of the other’s food. Sigma Reproductive Health Center v. State, 297 Md. 660, 676, 467 A.2d 483, 491 (1983). The essential elements of this defense include: (1) a reasonable belief that the action was necessary to avoid an imminent threatened harm; (2) a lack of other adequate means to avoid the threatened harm; and (3) a direct causal relationship that may be reasonably anticipated between the action taken and the avoidance of the harm. United States v. Cassidy, 616 F. 2d 101, 102 (1979). One principle remains constant in modern cases considering the defense of necessity: if there is “a reasonable, legal alternative to violating the law, ‘a chance both to refuse to do the criminal act and also to avoid the threatened harm,’ ” the defense is not available. Bailey, 444 U.S. at 410 (quoting W. LaFave & A. Scott, Criminal Law § 49 at 279 (1972)).
+The consensus of courts that have addressed this issue is that the defense of necessity is not a valid defense for criminal trespass charges which stem from political- or moral protests. Cleveland v. Municipality of Anchorage, 631 P.2d 1073 (Alaska 1981); Gaetano v. United States, 406 A.2d 1291 (D.C. 1979); People v. Smith, 161 Ill. App. 3d 213, 514 N.E.2d 211 (1987); People v. Stiso, 93 Ill. App. 3d 101, 416 N.E.2d 1209 (1981); People v. Krizka, 92 Ill. App. 3d 288, 416 N.E.2d 36 (1980); Sigma, 297 Md. 660, 467 A.2d 483 (1983); City of St. Louis v. Klocker, 637 S.W.2d 174 (Mo. App. 1982); State v. Horn, 126 Wis. 2d 447, 377 N.W.2d 176 (1985). One of the reasons why the necessity defense has been found to be inapplicable in such cases is the availability of alternative, noncriminal means of accomplishing the defendants’ purposes. Bailey, 444 U.S. at 410; United States v. Seward, 687 F.2d 1270, 1275 (10th Cir. 1982), cert. denied., 459 U.S. 147 (1983); United States v. Best, 476 F. Supp. 34, 46 (D. Colo. 1979); Cleveland, 631 P.2d at 1078-79; Nelson v. State, 597 P.2d 977, 980 (Alaska 1979); Griffin v. United States, 447 A.2d 776, 778 (D.C. 1982), cert. denied., 461 U.S. 907 (1983); State v. Marley, 54 Hawaii 450, _, 509 P.2d 1095, 1109 (1973); Sigma, 297 Md. at 678, 467 A.2d at 492; Commonwealth v. Hood, 389 Mass. 581, 592, 452 N.E.2d 188, 195 (1983); Commonwelath v. Brugman, 13 Mass. App. 373, _, 433 N.E.2d 457, 462 (1982); State v. Champa, 494 A.2d 102, 104 (R.I. 1985); State v. Olsen, 99 Wis. 2d. 572, 578, 299 N.W.2d 632, 636 (1980); LaFave & Scott, supra. § 50 at 387.
+In this case, reasonable, noncriminal means were available to achieve the defenders’ purposes. The defendants sought to communicate with patients concerning the impact of an abortion on both the fetus and the patient. This message could have been communicated off the clinic’s private property by direct intervention with the patients, to the extent they were receptive to it, or by the use of placards, billboards or other media. That these other alternatives may have been thought by the defendents to be less effective or less efficient does not justify criminal action to accomplish their purposes. Since there were reasonable, legal alternatives to trespass that would have achieved the defendants’ purpose, we hold that the defense of necessity is not available to them. Thus, the trial court did not err in prohibiting the defendants from presenting the defense of necessity, and we affirm the convictions.
+Affirmed.
+Duff, J., and Keenan, J., concurred.
+Because we conclude that reasonable, alternative means were available to these defendants, we do not decide whether the threatened harm perceived by the defendants was, in fact, the greater of “two evils,” nor do we decide whether their belief of that fact was reasonable. Similarly, we do not decide whether there existed a direct causal relationship between their conduct and the avoidance of the alleged harm.
