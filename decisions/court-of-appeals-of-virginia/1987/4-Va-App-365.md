@@ -1,0 +1,45 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "0476-86"
+decided: "1987-07-07"
+citations: ["4 Va. App. 365"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRIAN E. MAYHOOD v. JUDITH ANNETTE MAYHOOD"]
+source_url: "https://static.case.law/va-app/4/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4391069
+cites_cases: ["1 Va. App. 226", "1 Va. App. 358", "182 Va. 461", "216 S.E.2d 20", "216 Va. 30", "220 Va. 443", "232 Va. 110", "258 S.E.2d 513", "29 S.E.2d 241", "336 S.E.2d 23", "339 S.E.2d 198", "348 S.E.2d 259"]
+---
+
+# Mayhood v. Mayhood
+
+## Majority (HODGES, J.)
+
+Opinion
+HODGES, J.
+On January 23, 1986, the Circuit Court of the City of Norfolk entered a final decree of divorce between Brian E. Mayhood and Judith Annette Mayhood. The decree cited that a stipulation and property settlement agreement dated October 29, 1985, which dealt in part with the question of support of the two minor children, was affirmed, ratified and incorporated by reference into the decree as provided by statute. The decree went on to specify that “[t]he child support payments which the plaintiff (Brian Mayhood) is ordered to pay for the said minor child, are $175 per child, per month, at the rate of $175 on the 1st and $175 on the 15th of each month.”
+Subsequent to the entry of the final decree the court entered another decree on April 7, 1986, increasing the amount of child support to $250 a month per child and ordering the father to pay one-half of all expenses arising from counselling sessions for the infant son. Brian Mayhood objected to the decree and filed a timely notice of appeal.
+On appeal, appellant contends the court erred in awarding an increase in the amount of child support since appellee failed to carry her burden of proving that a change in circumstances had occurred since the original support amounts were set.
+Initially, we consider whether there is evidence in the record from which we can determine whether the court erred in awarding the increase. No transcript of the March 28 hearing was made, but on two occasions the appellant attempted to have a written statement of facts made a part of the record as permitted by Rule 5A:8. On May 14, 1986, appellant submitted a statement of facts which recited that on March 28, 1986, after brief argument by counsel concerning a petition for return of certain property, appellee moved for an increase in child support and stated in argument that the younger child might need therapy in the future due to problems with his father. The statement of facts further recited that the court interviewed the minor children outside the presence of the parties and their attorneys and then announced that $175 per month per child was not sufficient and an increase would be proper.
+On May 23, 1986, appellee’s counsel filed objections to the statement of facts and contended that appellee had testified to the expected increase in expenses due to the cost of therapy for the younger child. The objection noted that the judge stated that the amount of child support agreed to in the stipulation agreement was “the bare minimum.”
+On June 6, 1986, after due notice, a hearing was held concerning the statement of facts and appellee’s objection thereto. At the end of the hearing, the judge said: “If the parties will type up my recollection, after I read it, and if you’re agreeable to it, I’ll sign that as a statement of facts.” The record reflects that on July 23, 1986, appellant sent an amended statement of facts to the judge and requested that it be entered. The amended statement had been endorsed without objection by appellee’s counsel. Nonetheless, on July 28, 1986, the judge wrote appellee’s counsel and asked her to let him know whether she agreed or disagreed with the statement of facts. Nothing further appears in the record.
+Rule 5A:8 sets out the procedure for making a written statement a part of the record in lieu of a transcript. When one party files objections to the written statement, the clerk, after receipt of the objections, shall give prompt notice of the objections to the trial judge who shall:
+(1) overrule the objection;
+(2) make any corrections that he deems necessary;
+(3) include any accurate additions to make the record complete;
+(4) certify the manner in which the record is incomplete;
+and
+(5) sign the transcript or written statements.
+During the hearing on June 6, 1986, the court refused to sign the statement presented, and refused to certify that the statement was incomplete. The court stated:
+If you’ll put in this statement of facts that between the hearing of March 11 and the hearing of March 28 there was testimony, there was testimony, rather, that there was an incident between those two dates where the son threatened to kill the father and that that was what I discussed with the children in chambers in private each separately, not in the presence of each other, and that I returned to the room, and it was agreed by Mr. Mayhood that this had happened and that I think it was also agreed on that the mother had heard about it. And it was at that time on the basis of those facts that the court decided that the award was too low and there was additional counselling and care and attention necessary for which additional money would be required, and that was the basis of the court’s order increasing the award to $250 a month plus the requirement that he pay half.
+Now, it’s also my recollection that the testimony was that the wife earns about ten thousand dollars a year or eleven thousand dollars a year. ... It was about half of the husband’s income. And she was being required to pay half the cost of therapy for the children ....
+It is not clear whether the trial court failed or refused to sign the amended statement of facts tendered on July 23; however, the amended statement of facts does not bear the judge’s signature. The Rule provides that if the statement has been endorsed by counsel of all parties, the judge may sign the statement forthwith. Rule 5A:8 (c)(2). We hold that a written statement of facts becomes a part of the record only if all of the requirements of Rule 5A:8 are complied with by the parties and the trial judge. Therefore, the written statement in this case did not become a part of the record.
+Even if the statement had become a part of the record, there would be no evidence from which this court could decide if the judge properly determined that an increase in support payments was necessary. During oral argument, appellee’s counsel stated that appellee informed the court, “perhaps but not definitely under oath,” that she had called counselors and ascertained the cost of therapy for the infant son, but was unable to pay these costs. Neither appellee’s oral argument nor the proposed statement of facts indicates what expenses might be incurred for the therapy. Notably, the trial court increased the amount of support to be paid for both of the minor children. Yet, there was no evidence, argument, or information whatsoever that the needs and circumstances of the daughter had changed.
+We agree with appellee that the court retains jurisdiction to revise and alter child support amounts, whether the amount is initially set by the court or by agreement between the parties. Code § 20-108; Edwards v. Lowry, 232 Va. 110, 112, 348 S.E.2d 259, 261 (1986); Featherstone v. Brooks, 220 Va. 443, 446, 258 S.E.2d 513, 515 (1979); Parrillo v. Parrillo, 1 Va. App. 226, 231, 336 S.E.2d 23, 26 (1985). However, the court may alter its prior decree only if a material change in condition and circumstances has occurred, and the burden of proof is on the party moving for an increase or decrease in the support amount. Featherstone, 220 Va. at 447, 258 S.E.2d at 515; Hammers v. Hammers, 216 Va. 30, 31, 216 S.E.2d 20, 21 (1975); Crosby v. Crosby, 182 Va. 461, 464, 29 S.E.2d 241, 242 (1944).
+In the present case there is no evidence from which this court can determine whether the trial court did or did not abuse its discretion in increasing the amount of support originally agreed to by the parties and incorporated into the decree. While a trial court’s decision, when based upon an ore tenus hearing, is entitled to great weight and should not be disturbed unless plainly wrong or without evidence to support it, Simmons v. Simmons, 1 Va. App. 358, 361, 339 S.E.2d 198, 199 (1986), we cannot say there was sufficient evidence before the court because the record contains no evidence concerning a change in the children’s needs or circumstances.
+Therefore, the decree appealed from is vacated and the matter remanded for whatever proceedings the parties may deem appropriate.
+Vacated and remanded.
+Benton, J., and Duff, J., concurred.
+The property settlement agreement set forth that the husband agreed to maintain a dental and medical health insurance policy and that both parties were to share equally any reasonable medical and dental expenses not covered by the policy.
