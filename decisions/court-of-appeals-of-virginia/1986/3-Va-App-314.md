@@ -1,0 +1,43 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "0380-85"
+decided: "1986-10-21"
+citations: ["3 Va. App. 314"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RICHMOND MEMORIAL HOSPITAL, et al. v. JANIE W. ALLEN"]
+source_url: "https://static.case.law/va-app/3/cases/0314-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2284784
+cites_cases: ["1 Va. App. 153", "152 S.E.2d 254", "187 Va. 932", "207 Va. 720", "228 Va. 191", "229 Va. 227", "229 Va. 453", "3 Va. App. 123", "319 S.E.2d 769", "327 S.E.2d 121", "331 S.E.2d 396", "336 S.E.2d 522", "348 S.E.2d 420", "48 S.E.2d 209"]
+---
+
+# Richmond Memorial Hospital v. Allen
+
+## Majority (BARROW, J.)
+
+Opinion
+BARROW, J.
+In this appeal from the Industrial Commission, Richmond Memorial Hospital (“Hospital”), the employer, asserts that Janie W. Allen, the claimant, was barred from receiving compensation because she refused authorized medical treatment without justification. We conclude that she did not refuse authorized medical treatment and affirm the Commission’s award.
+Ms. Allen suffered a work-related back injury. She first saw Dr. Henry A. Yancey whom she selected from a panel of three physicians offered to her by the Hospital. Dr. Yancey prescribed medication and physical therapy using a Williams exercise program involving flexion, but he found no disability for work.
+Ms. Allen returned to work, but her condition did not improve. She telephoned Dr. Yancey and complained that her symptoms worsened with the prescribed exercises. In response he prescribed additional pain medication and advised her to continue the exercises.
+Ms. Allen was dissatisfied with Dr. Yancey and sought other medical care. She arranged an appointment with Dr. Michael K. Kyles. On the day before the appointment, Ms. Allen advised her employer’s Director of Employee Health Services of her appointment with Dr. Kyles. The director told her that Dr. Kyles was not a panel physician and that she would be responsible for his charges. The director also offered to arrange an appointment with Dr. Yancey or another physician on the panel, but Ms. Allen said that she did not want to see them and preferred to see Dr. Kyles.
+Dr. Kyles treated Ms. Allen with a different program of physical therapy using traction and a McKenzie program of hyper-extension. He concluded, that she was disabled for work from May 10, 1984, to June 4, 1984, when he released her to return to light work.
+At the hearing before the deputy commissioner and on review by the full Commission, the Hospital contended that Ms. Allen was not disabled for work and relied upon Dr. Yancey’s conclusion that she was not disabled. Both the deputy commissioner and the Commission, relying on the conclusion of Dr. Kyles, found to the contrary and awarded compensation for her period of disability.
+The deputy commissioner found that the change in physicians was justified, but the Commission concluded:
+[W]e do not find that a change in treating physicians was justified under these circumstances. The claimant was advised by her supervisor on May 9, 1984 that the employee would not be. responsible for the cost of treatment by Dr. Kyles and offered at that time to make an appointment with Dr. Yancey for additional treatment as needed, or to allow the claimant to select another panel physician .... [T] he employer has done all that is required of it by § 65.1-88, and . . . there is no sufficient basis for the Commission to order the employer to pay for the cost of medical treatment by Dr. Kyles.
+Relying on that conclusion, the Hospital contends that Code § 65.1-88 prohibits the payment of compensation during a period of unjustified refusal by an employee to accept medical services provided by an employer. It is true that, where the Commission makes a finding of unjustified refusal to accept medical service, the sanctions contained in Code § 65.1-88, including the cessation of compensation, must be imposed. Chesapeake Masonry Corp. v. Wiggington, 229 Va. 227, 232, 327 S.E.2d 121, 124 (1985). This argument, however, is based upon the Hospital’s erroneous assumption that the Commission found that Ms. Allen refused medical service.
+The expense of medical service, if unauthorized, may not be compensable. See Breckenridge v. Marval Poultry Co., 228 Va. 191, 193, 319 S.E.2d 769, 770 (1984). But the use of unauthorized medical service is not necessarily a refusal of medical service. Davis v. Brown & Williamson Tobacco Co., 3 Va. App. 123, 127, 348 S.E.2d 420, 423 (1986). If medical care required under Code § 65.1-88 is refused, further compensation is suspended unless the refusal is justified or until the refusal is cured. Chesapeake Masonry Corp., 229 Va. at 232, 327 S.E.2d at 124.
+Ms. Allen’s employment of Dr. Kyles was unauthorized medical treatment but not a refusal of medical care. The Commission’s conclusion that the expense of his service was not the Hospital’s responsibility was correct. But disability benefits are barred only if she unjustifiably refused medical care.
+Ms. Allen does not contend that the Hospital authorized her to see Dr. Kyles, nor does the Hospital contend that she could not choose to see him on her own. Nothing in the Workers’ Compensation Act prohibits an employee from seeking independent medical advice, just as nothing in the Act requires an employer to pay for unauthorized medical care where the employer has already provided it.
+The Hospital contends that Ms. Allen refused medical care when she declined its representative’s offer to arrange an appointment with another physician on the panel or another appointment with Dr. Yancey. This conclusion would be correct only if Ms. Allen were required to accept this offer.
+The requirement that the employee accept medical service is imposed by statute. Stump v. Norfolk Shipbuilding Corp., 187 Va. 932, 938, 48 S.E.2d 209, 212 (1948). An “unjustified refusal ... to accept such medical service" bars her from further compensation. Code § 65.1-88 (emphasis added). The phrase “such medical service” refers only to the single physician selected from the panel, an attending physician (if “chosen by another appropriate method,” Chesapeake Masonry Corp, 229 Va. at 232, 327 S.E.2d at 124) and other necessary medical attention which an employer is required to provide its employees. Code § 65.1-88.
+The Hospital was not required to provide Ms. Allen with an additional selection from the panel originally offered to her. Similarly, she was not required to accept the Hospital’s gratuitous offer to provide one. See Daniel Construction Co. v. Baker, 229 Va. 453, 456, 331 S.E.2d 396, 397 (1985).
+Medical management of the employee is not to be directed by the employer. Jensen Press v. Ale, 1 Va. App. 153, 158, 336 S.E.2d 522, 525 (1985). An employer can require an employee to select an attending physician from its panel of three, but only an attending physician or the Industrial Commission may require an employee to see another physician. Code §§ 65.1-88 and 65.1-90.
+Ms. Allen also did not refuse medical service when she declined her employer’s offer to arrange another appointment with Dr. Yancey. She already selected him from the panel of three physicians offered to her by the Hospital. She saw him and followed the treatment he prescribed. When she contacted him because her condition did not improve, he offered her nothing further. He did not ask to see her again nor did he refer her to anyone for additional treatment. To have sought his help again would have been futile.
+The purpose of Code §65.1-88 is twofold: to place the cost of medical care on the employer and to restore the employee’s good health “so that he may return to useful employment as soon as possible.” Immer & Co. v. Brosnahan, 207 Va. 720, 724, 152 S.E.2d 254, 257 (1967). Ms. Allen’s action to obtain additional medical care to achieve recovery is not inconsistent with this purpose.
+Ms. Allen wanted additional medical advice and sought it on her own. The medical service she received may have been unauthorized, but her seeking it and refusing the Hospital’s offer to arrange an appointment with another physician was not an unjustified refusal of medical care within the meaning of Code § 65.1-88.
+We conclude that Ms. Allen did not refuse medical service provided by the employer and that the Commission found only that her independent choice of a physician was unauthorized. Consequently, the employer’s contention that she should be denied compensation is without merit, and we affirm the Commission’s award.
+Affirmed.
+Benton, J., and Keenan, J., concurred.
