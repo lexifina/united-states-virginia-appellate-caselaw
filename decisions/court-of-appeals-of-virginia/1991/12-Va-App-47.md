@@ -1,0 +1,44 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "0094-90-3"
+decided: "1991-03-12"
+citations: ["12 Va. App. 47"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARY N. CARRICO v. RONNIE WAYNE BLEVINS"]
+source_url: "https://static.case.law/va-app/12/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4399460
+cites_cases: ["145 N.J. Super. 120", "165 S.E.2d 285", "2 Va. App. 409", "209 Va. 548", "228 Va. 722", "237 S.E.2d 89", "324 S.E.2d 691", "345 S.E.2d 10", "366 A.2d 1350", "537 So. 2d 946"]
+---
+
+# Carrico v. Blevins
+
+## Majority (MOON, J.)
+
+Opinion
+MOON, J.
+In this appeal from a circuit court’s visitation order we hold that the trial judge erred by requiring a mother in exercising her visitation rights to take her child to church on Sunday or to allow her ex-husband to do so. We also hold that the court did not abuse its discretion in ordering that the wife have no overnight guests of the opposite sex during the child’s visitation. Finally, we hold that the court did not abuse its discretion in failing to order a psychiatric examination of the child at the mother’s request.
+On appeal we construe the evidence in the light most favorable to the appellee. A decision affecting visitation is left to the sound discretion of the trial court and will not be reversed absent a showing of an abuse of discretion. Ronnie Wayne Blevins and Mary Nevado Carrico were divorced in December, 1988, after seven years of marriage. The divorce was granted to Mr. Blevins on the ground of adultery and he received custody of the couple’s only child, a son, now age seven.
+At present, Mary Carrico lives with a man, to whom she is not married, and his two daughters. She testified that she and the man have a very stable and monogamous relationship. They jointly maintain the three bedroom house. Mary Carrico and the man share the master bedroom, his two daughters share a bedroom, and the son occupies the third bedroom during his visits.
+Until March 1990, Mary Carrico kept the child Monday through Thursday and Mr. Blevins kept him Thursday through Sunday. Mary Carrico testified that this arrangement provided problems for the parties in arranging for the child’s transportation to school and was confusing to him. She then filed a motion to amend the visitation order so that she might have visitation with the child every other weekend, holidays and through the summer months. This visitation was granted on the condition that neither Mr. Blevins nor Mary Carrico have overnight visitors of the opposite sex during the child’s visitation. The order provided that the presence of a member of the opposite sex beyond 1:00 a.m. would be considered a violation of this order.
+The court also ordered that on weekends in which Mary Carrico had visitation that she would either take the child to church on Sunday or, in the event that Mary Carrico did not wish to go to church, the father, Ronnie Wayne Blevins, would be permitted to take the child to church services. The trial court concluded that this was a reasonable request by the father in light of the fact that the child had been reared to go to church and worship God. During her marriage with Mr. Blevins, Mary Carrico regularly attended church, but she said she did so at the insistence of her husband. She indicated that she did not agree with the church’s teachings and found the atmosphere intolerable. The order did not specify the church denomination that Mrs. Carrico must attend with the child if she chose to take the child to church.
+Ronnie Wayne Blevins testified that sometimes after the child visited with his mother he was difficult and did not mind well. Mr. Blevins also testified that the child returned home on one occasion and was upset that Mrs. Carrico’s male companion had walked into the bathroom while he was naked.
+Regarding the visitation problem, we cannot say as a matter of law that the trial judge abused his discretion by requiring Mrs. Carrico during visitation not to occupy the home overnight with a male to whom she was not married. Exposing children to their parents’ living with persons to whom they are not married has been disfavored by our Supreme Court. See Brown v. Brown, 218 va. 196, 237 S.E.2d 89 (1977). In a custody determination the Court held that the fact that the mother was openly living in an adulterous relationship in the same house with the children was sufficient cause to change custody.
+In Brown, the Court said:
+In all custody cases the controlling consideration is always the child’s welfare and, in determining the best interest of the child, the court must decide by considering all the facts, including what effect a nonmarital relationship by a parent has on the child. The moral climate in which the children are to be raised is an important consideration for the court.
+Id. at 199, 237 S.E.2d at 91; see Roe v. Roe, 228 Va. 722, 324 S.E.2d 691 (1985) (reversing a custody award where a father was living with his homosexual lover).
+Judge Ingram of the Alabama Court of Civil Appeals in Jones v. Haraway, 537 So. 2d 946 (Ala. Civ. App. 1988) observed as follows:
+The number of unmarried adults in our country who are living with companions with whom they have a sexual relationship is significant. Many of them are parents of children from dissolved marriages, and therefore trial courts across the country have been confronted in recent years with problems of developing custody and visitation orders affecting these children. [A] review of cases from other jurisdictions indicates that visitation restrictions are not uncommon. The most often used is the prohibition of overnight visits; also common is a prohibition against the presence of the parent’s lover during the visit.
+Some jurisdictions have upheld visitation restrictions and custody changes based solely on a parent’s cohabitation with a person to whom he or she is not married.
+Id. at 948 (Ingram, J., dissenting in part) (citations omitted).
+Here, there was evidence that the father had strong religious and moral views against the child being in the home with the mother and her boyfriend. Although we do not hold that the moral values of the custodial parent are necessarily the deciding factor, we do hold that they may be considered in imposing visitation restraints. See DeVita v. DeVita, 145 N.J. Super. 120, 366 A.2d 1350 (App. Div. 1976). In DeVita, the Court stated:
+We do not decide whether the mother’s views are correct or incorrect but she has a rightful interest in the moral welfare of the children which is entitled to respect. Further, it must be acknowledged that her views are not contrary to those of a substantial body of the community.
+Id. at 128, 366 A.2d at 1354.
+Thus, under all of the circumstances, we cannot say as a matter of law that the trial judge abused his discretion in restricting the visitation rights of Mary Carrico by requiring that her seven-year-old son not be kept overnight in a home where she lived with a male companion to whom she was not married. The trial court’s ruling reflected the view of the custodial parent and a substantial body of the community, and was in harmony with prior court decisions involving custody.
+On the other hand, we hold that the provision in the court’s decree requiring Mrs. Carrico to take the child to church or relinquish custody to the father in order that he may do so compels Mary Carrico to attend church or to relinquish a portion of her limited visitation time. She is required to attend church with her son or suffer the penalty of losing a portion of her visitation time. Regardless of the trial judge’s motivation, the state may not require a citizen to attend any religious worship. Such provisions violate Article I, Section 16, of the Virginia Constitution which guarantees that “[n]o man shall be compelled to frequent or support any religious worship.” See Eichelberger v. Eichelberger, 2 Va. App. 409, 412, 345 S.E.2d 10, 11-12 (1986); see also Lundeen v. Struminger, 209 Va. 548, 551, 165 S.E.2d 285, 287 (1969).
+Prior to trial, Mary Carrico moved for a psychological evaluation of the child to determine whether her relationship with her male companion had a detrimental effect on the child. In denying the motion, the trial judge stated that both parties could likely obtain favorable expert testimony and that he did not feel the value of the evidence that could be obtained was worth the prejudicial impact of the examination on the child. Whether to grant the motion was within the discretion of the trial judge. We do not find that the trial court abused that discretion.
+Accordingly, the judgment appealed from is affirmed in part and reversed in part.
+Affirmed in part and reversed in part.
+Coleman, J., and Willis, J., concurred.
