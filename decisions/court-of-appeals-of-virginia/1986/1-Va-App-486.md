@@ -1,0 +1,34 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "0077-85"
+decided: "1986-02-18"
+citations: ["1 Va. App. 486"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELEANOR D. MITCHELL v. COUNTY OF HANOVER"]
+source_url: "https://static.case.law/va-app/1/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2288215
+cites_cases: ["101 S.E. 230", "126 Va. 763", "159 Va. 968", "167 S.E. 371", "216 Va. 297", "217 S.E.2d 893", "627 P.2d 1316", "95 Wash. 2d 574"]
+---
+
+# Mitchell v. County of Hanover
+
+## Majority (KEENAN, J.)
+
+Opinion
+KEENAN, J.
+Eleanor Mitchell was convicted of driving under the influence of alcohol in violation of Hanover County Code § 15-2. The court imposed a fine of $250 and suspended her operator’s license for a period of six months. The issues presented in this appeal are: (1) whether County Code § 15-2 was valid at the time of Mitchell’s arrest; and (2) if not, whether Mitchell’s conviction can be sustained based on the wording of the warrant describing the offense.
+In order to decide these issues, we must begin by considering the effect of certain legislative enactments of the General Assembly and the Hanover County Board of Supervisors. Virginia Code § 15.1-132 permits local governing bodies to enact legislation prohibiting driving under the influence of alcohol or drugs. On January 30, 1974, the Hanover County Board of Supervisors approved an ordinance reenacting § 9-1 of the County Code. The approved language provided that: “Article 6 of Chapter 2 of Title 18.1 of the 1950 Code of Virginia (Section 18.1-54 through 18.1-59) as amended or hereafter amended, is hereby adopted by reference.”
+In 1975, the General Assembly repealed Virginia Code Title 18.1. Title 18.2 was enacted in its place. Hanover County, however, did not pass any further legislation dealing with the crime of driving under the influence until 1982. At that time, the Board of Supervisors passed an ordinance which recodified the County Code. This ordinance stated: “That the Code of Ordinances, consisting of Chapters 1 to 24, each inclusive, is hereby adopted and enacted as the ‘Code of the County of Hanover, Virginia,’ which Code shall supersede all general and permanent ordinances of the County adopted on or before January 28, 1981 . . . .” Under the recodification, County Code § 9-1 became § 15-2. The 1982 ordinance made no provision reflecting the repeal of Virginia Code Title 18.1 and the passage of Title 18.2. Therefore, as of the date of Mitchell’s arrest, September 16, 1983, Hanover County had not passed an ordinance adopting Virginia Code Title 18.2
+Although never authorized by ordinance, a reference to. Virginia Code § 18.2-266 et seq. was inserted into § 15-2 of the County Code, in place of the authorized reference to former Virginia Code §§ 18.1-54 through 18.1-59. Because the reference to Code § 18.2-266 et seq. was not adopted by ordinance as required by Code § 15.1-504, it is a nullity. Therefore, the 1974 version, incorporating by reference former Virginia Code §§ 18.1-54 through 18.1-59, was the authorized version in effect as of the date of Mitchell’s arrest.
+The 1974 version contained a provision that “[a]rticle 6 of Chapter 2 of Title 18.1 (Section 18.1-54 through 18.1-59) ... as amended or hereafter amended is hereby adopted by reference.” However, Virginia Code Title 18.1 was not amended. It was repealed. A void act cannot be made the subject of an amendment. Burks v. Commonwealth, 126 Va. 763, 767, 101 S.E. 230, 231 (1919). Therefore, the language providing for prospective amendment to the County Code does not apply here, and Code § 18.2-266 et seq. was not incorporated into the County Code by operation of this provision. Based on this finding, we need not decide the validity of a local ordinance providing for the incorporation of prospective amendments to the Virginia Code.
+Having found that Virginia Code § 18.2-266 et seq. was not incorporated into the Hanover County Code at the time of Mitchell’s arrest, we must conclude that County Code § 15-2, at that time, did not state an offense.
+Next, we consider whether, absent reference to a valid code section, the wording of the warrant formed a sufficient basis for Mitchell’s prosecution and conviction. The Commonwealth relies on Williams v. City of Petersburg, 216 Va. 297, 217 S.E.2d 893 (1975), in support of its position that the wording of the warrant alone was sufficient. Williams, however, presented a different issue. There, the defendant had been charged with driving under the influence and refusing to submit to a breath test. The warrant charging the refusal violation erroneously referred to former Code § 18.1-54.1, rather than former Code § 18.1-55.1. The court held that this did not invalidate the conviction because the warrant properly recited the gravamen of the offense set out in former Code § 18.1-55.1, and the statement of the offense was sufficient to enable the defendant to adequately prepare his defense. Id. at 301-02, 217 S.E.2d at 897. Thus, Williams addressed the effect of a mistaken reference to a valid code section. It did not deal, as we do, with a code section that was itself invalid. Under the facts before us, notice to the defendant is not the issue. Mitchell knew she was being charged with driving under the influence. Instead, the issue before us is whether the warrant itself stated an offense.
+Driving under the influence of alcohol was not an offense at common law. It exists solely as a creature of statute. Therefore, the words set out in the warrant before us had no effect unless they described a crime under a valid County Code section. This is not altered by the fact that the wording on the warrant described a violation of Virginia Code § 18.2-266 et seq. Mitchell was not charged with violating a provision of the Virginia Code. The existence of a state statute defining the same crime does not form a basis for conviction where a defendant has not been so charged. See Jenkins v. Bellingham Municipal Court, 95 Wash. 2d 574, 627 P.2d 1316, 1320 (1981). We find that the warrant before us did not state an offense and was, therefore, insufficient to form the basis of a conviction. See Commonwealth v. Doss, 159 Va. 968, 973, 167 S.E. 371, 373 (1933).
+In summary, because Hanover County Code § 15-2 was invalid at the time of Mitchell’s arrest, and the wording of the warrant was of itself insufficient to establish an offense, the conviction is invalid and must be dismissed.
+Reversed and dismissed.
+Barrow, J., and Benton, J., concurred.
+The arrest warrant stated that Mitchell: “did unlawfully in violation of § 15.2 [sic] . . . operate a motor vehicle while under the influence of alcohol or other self administered drug or intoxicants.”
+Hanover County Ordinance No. 82-5, effective June 1, 1982.
