@@ -1,0 +1,49 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "1049-93-3"
+decided: "1994-09-13"
+citations: ["19 Va. App. 24"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SIDNEY R. WOODARD, s/k/a SIDNEY ROB WOODARD v. COMMONWEALTH OF VIRGINIA"]
+source_url: "https://static.case.law/va-app/19/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2315738
+cites_cases: ["13 Va. App. 296", "157 S.E.2d 195", "16 Va. App. 310", "17 Va. App. 627", "208 Va. 326", "218 Va. 560", "228 Va. 296", "238 S.E.2d 811", "321 S.E.2d 202", "366 S.E.2d 719", "411 S.E.2d 235", "429 S.E.2d 475", "440 S.E.2d 145", "578 A.2d 370", "594 A.2d 1182", "6 Va. App. 172"]
+---
+
+# Woodard v. Commonwealth
+
+## Majority (KOONTZ, J.)
+
+Opinion
+KOONTZ, J.
+Sidney Rob Woodard (Woodard) was convicted in a jury trial for rape pursuant to Code § 18.2-61. In this appeal, Woodard alleges that the trial court erred in admitting evidence of the victim’s hearsay complaint of the rape made more than two months after the crime. In addition, Woodard asserts that, if the evidence of the hearsay complaint was properly admitted, the trial judge erred in refusing to instruct the jury that the evidence was merely corroborative of the victim’s testimony and not independent evidence of the crime. For the reasons that follow, we affirm Woodard’s conviction.
+I.
+BACKGROUND
+Under well established principles of appellate review, we view the evidence in the light most favorable to the Commonwealth and accord to the evidence all reasonable inferences fairly deducible therefrom. Traverso v. Commonwealth, 6 Va. App. 172, 176, 366 S.E.2d 719, 721 (1988). When so viewed, the record reflects the following pertinent facts. On July 17, 1992, the female victim, thirteen years old and unmarried, along with her younger brother and another child went to visit Woodard, her mother’s cousin, at his home. Woodard sent the other children on an errand and called the victim into his house. Upon entering the house, she discovered Woodard, naked from the waist down, in a bedroom. After a struggle, Woodard removed the victim’s pants and “put his penis inside [her] vagina.” Thereafter the victim returned to her house, went to her bedroom, laid on her bed, and “cried.” When the victim’s mother came home later that day, the victim did not tell her of the events that had occurred earlier.
+The victim testified that she told no one about the offense until school commenced after the summer recess. At that time, she told a school friend who had also been a rape victim. Several weeks later, on October 4, the victim told her aunt what had happened to her in July. The aunt testified that the victim told her that “[Woodard] made [me] do things [I] didn’t want to do. He made [me] have sex.” Medical evidence from an examination in October showed that the victim’s hymen had been traumatized.
+Woodard testified in his defense and denied sexual contact with the victim.
+Prior to trial, Woodard sought to suppress introduction of the victim’s reports of the rape to her friend and aunt on the ground that these reports were not recent complaints and, thus, not admissible. The trial court ruled that the timeliness of the complaint was a matter for the jury to consider in weighing the evidence and overruled the motion. Woodard renewed his objection at trial.
+At trial, Woodard submitted Instruction E, which read: “Evidence that a person has made a complaint about being raped is admissible only for the purpose of corroborating that person’s testimony, and not as independent evidence of the facts involved.” The trial judge refused this instruction and refused Woodard’s request that the trial court amend rather than refuse it. The jury convicted Woodard of rape and recommended a sentence of fifteen years of confinement. This appeal followed.
+II.
+ADMISSION OF HEARSAY COMPLAINTS OF RAPE
+The admission of evidence concerning a rape victim’s complaint as an exception to the hearsay rule has its origins in the now discredited “hue and cry” rule. Under the “hue and cry” rule, a prosecutrix was required to prove a timely complaint of an alleged rape in order to corroborate her claim that the assault was against her will. See State v. Hill, 578 A.2d 370, 374 (N.J. 1990). Although the original rule is no longer operative, subsequent case law and recent legislation make admissible into evidence the victim’s complaint of rape in the prosecution’s case-in-chief under the “recent complaint” rule. See Code § 19.2-268.2; Fisher v. Commonwealth, 228 Va. 296, 300, 321 S.E.2d 202, 204 (1984). However, only the fact of the complaint and not the details given therein may be admitted, but the scope of admission rests with the sound discretion of the trial court. Herron v. Commonwealth, 208 Va. 326, 330, 157 S.E.2d 195, 198 (1967); see also 2 Charles E. Friend, The Law of Evidence in Virginia § 18-29 (4th ed. 1993).
+Under the modern rule, it is understood that the “only time requirement is that the complaint have been made without a delay which is unexplained or is inconsistent with the occurrence of the offense.” Edward W. Cleary, McCormick on Evidence § 297 (3d ed. 1984) (emphasis added). See also Harmony v. State, 594 A.2d 1182, 1189 (Md. Ct. Spec. App. 1991). The initial determination of timeliness under the recent complaint rule is committed to the sound discretion of the trial court, and thereafter, timeliness is a matter for the trier of fact to consider in weighing the evidence. Herron, 208 Va. at 330, 157 S.E.2d at 198; see also Willis & Bell v. Commonwealth, 218 Va. 560, 563, 238 S.E.2d 811, 813 (1977); Corvin v. Commonwealth, 13 Va. App. 296, 299, 411 S.E.2d 235, 237 (1991).
+Woodard asserts on appeal that the trial judge erred in denying his pretrial motion to suppress evidence of the victim’s complaint and in admitting that testimony over his objection. Both Woodard’s suppression motion and his objection at trial were based on the claim that the victim’s delay in reporting the rape took the report out of the recognized exception to the hearsay rule because the complaint was not recent. We disagree.
+The victim’s delay was not “unexplained” or “inconsistent with the occurrence of the offense.” To the contrary, her delay is explained by and completely consistent with the all too common circumstances surrounding sexual assault on minors—fear of disbelief by others and threat of further harm from the assailant. The decision whether to admit or suppress evidence of the fact of the victim’s complaint of Woodard’s assault was a matter committed to the discretion of the trial judge, and upon its admission, the timeliness of the complaint became a matter for the jury to consider in weighing the evidence. We cannot say that the trial judge abused that discretion.
+III.
+FUNCTION OF RECENT COMPLAINT EVIDENCE
+Woodard contends that, if the trial court properly admitted evidence of the victim’s complaint, the court nonetheless erred in refusing to instruct the jury to consider the report of the complaint as “corroborating [the victim’s] testimony, and not as independent evidence of the facts involved.”
+We have recently clarified the application of the recent complaint rule:
+A rape victim’s complaint corroborates more than his or her testimony, it also corroborates the occurrence of the rape itself. No reason justifies limiting the rule to corroboration of a victim’s testimony. We hold that the rule is applicable to corroborate other independent evidence of the offense; however, the complaint alone does not constitute sufficient evidence of the offense.
+McManus v. Commonwealth, 16 Va. App. 310, 312, 429 S.E.2d 475, 476 (1993) (citation omitted) (emphasis added). The question of legal sufficiency is for the trial court rather than for the jury to resolve and was resolved by the trial court’s overruling of Woodard’s motion to strike. Thereafter, the function of the evidence of the victim’s recent complaint was to add weight and credibility to the direct evidence of the crime, including, but not limited to, the victim’s testimony. Thus, Woodard’s instruction was not an accurate statement of the law; it too narrowly limited the scope of the function of recent complaint evidence.
+Woodard further contends that even if the proffered instruction was an incorrect statement of law, the trial judge should have honored his request to amend the instruction. We disagree.
+It is a well established rule that under normal circumstances a trial court is under no obligation to amend or correct an instruction that contains a misstatement of law. However, “when the principle of law is materially vital to [the] defendant in a criminal case, it is reversible error for the trial court to refuse a defective instruction instead of correcting it and giving it in the proper form.”
+Morse v. Commonwealth, 17 Va. App. 627, 636, 440 S.E.2d 145, 151 (1994) (emphasis added).
+A correct statement of law would have done no more than instruct the jury that the evidence of the victim’s complaint could be considered “to corroborate other independent evidence.” In this instance, the independent evidence consisted of the victim’s testimony and medical evidence suggesting a sexual trauma, which together are adequate to sustain the conviction. The proffered instruction was not an accurate statement of the law, and the trial judge was under no duty to amend the proffered, erroneous instruction.
+For these reasons, Woodard’s conviction is affirmed.
+Affirmed.
+Coleman, J., and Elder, J., concurred.
+Woodard asserts that as McManus was decided after his conviction, his proffered instruction was a correct statement of law at the time. We disagree. In McManus we did not alter the recent complaint rule. Rather, we clarified an ambiguity as to the application of that rule.
