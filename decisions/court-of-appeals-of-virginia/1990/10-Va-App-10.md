@@ -1,0 +1,36 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "0403-89-3"
+decided: "1990-03-13"
+citations: ["10 Va. App. 10"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MAGIC CITY MOTOR CITY CORP., et al. v. LYLE T. HELMICK"]
+source_url: "https://static.case.law/va-app/10/cases/0010-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4396143
+cites_cases: ["184 Va. 711", "224 Va. 292", "295 S.E.2d 887", "36 S.E.2d 573", "367 S.E.2d 204", "6 Va. App. 73"]
+---
+
+# Magic City Motor City Corp. v. Helmick
+
+## Majority (MOON, J.)
+
+Opinion
+MOON, J.
+Magic City Motor City Corporation and Travelers Insurance Company appeal the decision of the Industrial Commission which held that their payments to Lyle T. Helmick under a compromise settlement agreement could not be recovered because Helmick had not willfully attempted to defraud Magic City by not revealing that he was working while drawing temporary total disability payments before the agreement was executed. We reverse and hold that Code § 65.1-100.3 entitles the employer to recover payments made under a compromise agreement if the employer would not have entered into the agreement had it known the employee was receiving compensation from other employment.
+Before July 1, 1985, an employee receiving temporary total disability payments did not have to report to his employer that he was employed, and the commission held compensation from that employment could not be recovered. See Brushy Ridge Coal Co., Inc. v. Blevins, 6 Va. App. 73, 79-80, 367 S.E.2d 204, 207-08 (1988); see also McManus v. Intercoastal Steel Corp., 65 O.I.C. 290, 291-92 (1986). If the. employee entered into a settlement agreement with the employer, the agreement could not be voided absent proof of willful fraud through a specific act or omission. See J & D Masonry v. Kornegay, 224 Va. 292, 295 S.E.2d 887 (1982).
+The new statute, effective July 1, 1985, is Code § 65.1-100.3, which reads as follows:
+So long as an employee receives payment of compensation under this act, such employee shall have a duty to immediately disclose to the employer and insurer any return to employment or increase in his earnings. Any payment to a claimant by an employer or insurer which is later determined by the Industrial Commission to have been procured by the employee by fraud, misrepresentation or failure to report any return to employment or increase in earnings may be recovered from the claimant by the employer or insurer either by way of credit taken to future compensation payments due to the claimant, or by action at law against a claimant.
+Code § 65.1-100.3 imposed new obligations and created new rights. Blevins, 6 Va. App. at 79-80, 367 S.E.2d at 207-08. Before the statute was enacted, the employee had no obligation to report earnings while he was receiving compensation; the new statute imposed that duty upon him. Before the statute was enacted, the burden was on the employer and insurer to monitor the employee’s activity and they paid compensation at their peril. Code § 65.1-100.3 gives employers and insurers a right to recover payments procured through (1) fraud, (2) misrepresentation, or (3) failure to report any return to employment or increased earnings. Because these grounds are listed in the disjunctive, proof of any one entitles the employer and insurer to recover payments.
+While employed as a mechanic by Magic City, an automotive dealership, the claimant, Helmick, injured his left knee in a fall. Through a Memorandum of Agreement, Helmick was awarded temporary total disability benefits. While receiving these benefits, he worked for three periods as a long-haul truck driver for Schneider/Lotts Trucking and earned $6,678.88. Helmick did not report to either Magic City or its insurer that he had returned to work and was earning income. Helmick testified that he did not know he had to report.
+The insurer’s representative, Richard Sperger, negotiated a settlement agreement with Helmick and the commission approved the agreement. Sperger testified that he would not have entered into the agreement if he had known that Helmick had returned to work. The employer and insurer contend that during settlement negotiations the subject of Helmick’s ability to resume his employment after his injury was not discussed, and Helmick made no express representation to Sperger regarding this subject.
+After documenting Helmick’s employment as a truck driver while receiving benefits, Magic City and its insurer filed an application for a hearing seeking recovery of (1) the pre-settlement temporary total disability benefits paid while Helmick was working and (2) all payments made to Helmick under the settlement agreement.
+The deputy commissioner ruled that, pursuant to Code § 65.1-100.3, Helmick’s failure to report his earnings as a truck driver while receiving compensation entitled Magic City and its insurer to recover those earnings. The deputy commissioner rejected the claim for recovery of all payments made under settlement agreement. The full commission affirmed the deputy commissioner, reasoning that this case was controlled by Kornegay and Harris v. Diamond Construction Co., 184 Va. 711, 36 S.E.2d 573 (1946). Those cases held that an employer could recover the full amount paid under a settlement agreement only when it proved a clear, willful intent on the part of the employee to defraud through a specific act or omission.
+The issue in this case is whether payments under a settlement agreement are “payments] of compensation” within the meaning of Code § 65.1-100.3. Code § 65.1-93, relating to agreements as to compensation, states:
+If after an injury or death, the employer and the insured employee or his dependants reach an agreement in regard to compensation or in compromise of a claim for compensation under this Act, a memorandum of the agreement in the form prescribed by the Industrial Commission shall be filed with the Commission for approval. If approved, the agreement shall be binding, and an award of compensation entered upon such agreement shall be for all purposes enforceable by the court’s decree or elsewhere provided in this Act. (emphasis supplied).
+It is clear that the legislature, in using the term “payment of compensation” in Code § 65.1-100.3, did not intend to create a distinction betwepn awards based on compromise agreements and those otherwise made under the Act. Accordingly, we hold that Code § 65.1-100.3 applies to payments received under a settlement agreement. Therefore, we believe the Industrial Commission erred in ruling that Code § 65.1-100.3 applied only to payments of compensation made other than under a settlement agreement.
+Thus, we remand the case to the Industrial Commission for findings of fact as to whether or not the employer and its insurer would have entered into the settlement agreement had they known of the wages earned but not disclosed by Helmick. Should the commission find that the settlement agreement would not have been entered into, a decision consistent with this opinion should be made in favor of the employer and its insurer.
+Reversed and remanded.
+Koontz, C.J., and Keenan, J., concurred.
