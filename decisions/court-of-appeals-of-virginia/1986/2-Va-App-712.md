@@ -1,0 +1,37 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "1380-85"
+decided: "1986-08-19"
+citations: ["2 Va. App. 712"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COMMONWEALTH OF VIRGINIA DEPARTMENT OF CORRECTIONS v. THOMAS WAYNE POWELL"]
+source_url: "https://static.case.law/va-app/2/cases/0712-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 2286229
+cites_cases: ["112 S.E.2d 835", "185 Va. 695", "195 Va. 850", "201 Va. 678", "218 Va. 565", "229 Va. 117", "238 S.E.2d 813", "326 S.E.2d 687", "40 S.E.2d 181", "80 S.E.2d 537"]
+---
+
+# Commonwealth v. Powell
+
+## Majority (DUFF, J.)
+
+Opinion
+DUFF, J.
+The Department of Corrections (employer) appeals from a decision of the Industrial Commission awarding Thomas Wayne Powell (claimant) fifty percent permanent partial disability, pursuant to Code § 65.1-56, for the loss of use of his arm. The employer challenges the Commission’s finding that Powell’s injury had reached maximum medical improvement and the method used for rating the disability to the arm. We find no merit in either contention and affirm the Commission’s award.
+On May 25, 1982, an inmate stabbed Powell in the left side of his neck and shoulder during the course of his employment as a correctional officer. His claim was accepted as compensable, and temporary total disability benefits were paid from the date of his injury until he returned to work on June 6, 1983. On April 11, 1985, Powell filed an application seeking compensation for permanent partial loss of use of the left arm as a result of the May 25, 1982, accident. After a hearing, the deputy commissioner found that the claimant had reached maximum medical improvement and awarded him benefits for fifty percent permanent disability to his left arm. The award was affirmed by a majority of the full Commission. This appeal followed.
+The employer first contends that the evidence does not support the finding that Powell had reached maximum medical improvement. At the evidentiary hearing, Dr. John J. Brush, a board certified neurologist, testified that he had treated Powell since October 1982, that Powell’s stab wounds had caused nerve damage to his left shoulder, and that his injury had reached maximum medical improvement. Dr. Brush expressly stated, “He is not going to get any better in other words.” The employer sought independent evaluations of the claimant’s condition from Dr. Allan H. Friedman and Dr. George Johnson. Dr. Johnson found no permanent disability. However, in a February 26, 1985, medical report, Dr. Friedman, a neurosurgeon, stated that the claimant had reached maximum medical improvement and gave him a twenty percent disability rating.
+Although there was other medical evidence contrary to the opinions of Dr. Brush and Dr. Friedman, it is fundamental that a finding of fact made by the Commission is conclusive and binding upon this court on review. A question raised by conflicting medical opinion is a question of fact. Pocahontas Fuel Co., Inc. v. Agee, 201 Va. 678, 112 S.E.2d 835 (1960); Estep v. Blackwood Fuel Co., 185 Va. 695, 40 S.E.2d 181 (1946); Celanese Fibers Co. v. Johnson, 229 Va. 117, 120, 326 S.E.2d 687, 690 (1985). We find no error in the Commission’s decision that Powell had reached maximum medical improvement because there was credible medical evidence to support the finding.
+Next, the employer contends that in awarding a permanent disability rating of fifty percent of the left arm, the Commission applied an improper legal standard. The employer’s argument is two-pronged. First, it says that Code § 65.1-56 requires a rating based upon an anatomical loss of use. Second, the employer argues that Dr. Brush focused solely on the disability present in Powell’s arm when he used it vigorously or under stress. The employer argues that the rating should have considered Powell’s ability to use his arm in any type of employment, not only his ability to use his arm under stressful or vigorous conditions. In making this argument, it relies on the following statement by the court in Virginia Oak Flooring v. Chrisley, 195 Va. 850, 857, 80 S.E.2d 537, 541 (1954):
+The phrases “total and permanent loss” or “loss of use” of a leg do not mean that the leg is immovable or that it cannot be used in walking around the house, or even around the block. They do mean that the injured employee is unable to use it in any substantial degree in any gainful employment.
+(emphasis added).
+Code § 65.1-56 provides specific periods of payment for the permanent loss, or loss of use, of various members of the body. Compensation is proportionately awarded for the permanent partial loss, or loss of use, of a member. The compensation provided is indemnity for loss of the member and is fixed and payable irrespective of continued employment, loss of wages, or like considerations. County of Spotsylvania v. Hart, 218 Va. 565, 238 S.E.2d 813 (1977). Nowhere in the statute is there expressed a requirement that the loss or loss of use of the member must be measured in terms of an anatomical loss.
+Furthermore, we believe that the employer’s reliance on the quoted language from Chrisley is misplaced. In Chrisley, the evidence showed that the claimant had sustained serious and permanent disability to his legs, resulting in a twenty-five percent loss of use of one and a thirty percent loss of use of the other. The claimant argued that the combination of these disabilities, however, had caused him to become totally and permanently disabled. In determining the extent of the loss of use of two members injured in the same accident, the issue presented was whether the ability of the injured employee to engage in gainful employment was a proper element for consideration. The court held that it was and affirmed the Commission’s finding that the claimant’s disability was total, not partial. The court’s finding in Chrisley is distinguishable on its facts.
+The record before us shows that there was evidence that Powell could not use his arm effectively in any work involving forceful and repeated use. In describing the impact of Powell’s disability, Dr. Brush testified:
+[T]he muscles actually shut down and give away and those muscles can’t work under real stress maximum circumstances and he works as a correctional officer and I’ve been very leery that he could get into an altercation with a prisoner and have to use his left arm forcefully and its not going to be able to work in that sense because of the pain. ... So under those circumstances of doing his work as a correctional officer, in my opinion, I believe that the arm is disabled about fifty percent in that regard.
+Dr. Brush also said that Powell would have similar problems doing manual labor, such as changing tires, cutting pulpwood, or doing any type work where he used his left arm repeatedly and forcibly.
+The evidence before the Commission in the present case showed the nature of the disability in Powell’s left arm and under what circumstances it would affect his use of the arm. It further showed that such disability would similarly affect Powell in other fields of work where he had experience. We find that a proper legal standard was used in rating the loss of use of the arm and that the evidence was sufficient to support the Commission’s finding.
+Accordingly, the award appealed from is
+Affirmed.
+Baker, J., and Cole, J., concurred.
