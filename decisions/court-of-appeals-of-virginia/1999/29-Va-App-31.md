@@ -1,0 +1,22 @@
+---
+court: "Court of Appeals of Virginia"
+docket: "Record No. 1637-97-1"
+decided: "1999-01-19"
+citations: ["29 Va. App. 31", "509 S.E.2d 524"]
+reporter: "va-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lorenzo McLEAN, Appellant, v. COMMONWEALTH of Virginia, Appellee."]
+source_url: "https://static.case.law/va-app/29/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1713916
+---
+
+# McLean v. Commonwealth
+
+## Rehearing
+
+UPON A PETITION FOR REHEARING EN BANC
+On December 18, 1998 came the appellee, by counsel, and filed a petition praying that the Court set aside the judgment rendered herein on December 8, 1998, and grant a rehearing en banc thereof.
+On consideration whereof, the petition for rehearing en banc is granted, the mandate entered herein on December 8,1998 is stayed pending the decision of the Court en banc, and the appeal is reinstated on the docket of this Court.
+The parties shall file briefs in compliance with Rule 5A:35. It is further ordered that the appellee shall file with the clerk of this Court ten additional copies of the appendix previously filed in this case.
